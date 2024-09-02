@@ -1,1 +1,2 @@
 "êste es un archivo de texto creado para el repositorio"   
+"Modificaci¢n del archivo de texto desde una nueva rama" 
