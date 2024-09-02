@@ -1,0 +1,47 @@
+¿Cuales son los comandos mas usados en Git?
+1. git init
+Descripción: Inicializa un nuevo repositorio de Git en el directorio actual.
+Uso: git init
+2. git clone
+Descripción: Clona un repositorio remoto a tu máquina local.
+Uso: git clone <URL-del-repositorio>
+3. git status
+Descripción: Muestra el estado actual del repositorio, incluyendo archivos modificados, nuevos, y aquellos que están en el staging area.
+Uso: git status
+4. git add
+Descripción: Añade archivos al staging area (prepara archivos para el próximo commit).
+Uso: git add <archivo> o git add . para añadir todos los archivos modificados.
+5. git commit
+Descripción: Crea un commit con los cambios en el staging area, junto con un mensaje descriptivo.
+Uso: git commit -m "Mensaje del commit"
+6. git log
+Descripción: Muestra el historial de commits del repositorio.
+Uso: git log
+7. git branch
+Descripción: Muestra una lista de las ramas existentes. También se puede usar para crear una nueva rama.
+Uso: git branch (listar ramas) o git branch <nombre-de-la-rama> (crear nueva rama)
+8. git checkout
+Descripción: Cambia de una rama a otra o restaura archivos del historial.
+Uso: git checkout <nombre-de-la-rama> para cambiar de rama, o git checkout <archivo> para restaurar un archivo.
+9. git merge
+Descripción: Fusiona otra rama con la rama actual.
+Uso: git merge <nombre-de-la-rama>
+10. git pull
+Descripción: Actualiza la rama local con los cambios más recientes de la rama remota (combina git fetch y git merge en un solo comando).
+Uso: git pull
+11. git push
+Descripción: Sube los commits de la rama local al repositorio remoto.
+Uso: git push origin <nombre-de-la-rama>
+12. git diff
+Descripción: Muestra las diferencias entre archivos modificados pero no confirmados.
+Uso: git diff
+13. git reset
+Descripción: Revertir cambios en el staging area o deshacer commits.
+Uso: git reset <archivo> para quitar un archivo del staging area, o git reset --hard <commit> para deshacer commits.
+14. git stash
+Descripción: Guarda temporalmente los cambios sin confirmarlos para trabajar en otra cosa y recuperarlos más tarde.
+Uso: git stash para guardar los cambios, git stash pop para recuperarlos.
+15. git remote
+Descripción: Gestiona las conexiones a repositorios remotos.
+Uso: git remote -v para listar los repositorios remotos, git remote add <nombre> <URL> para añadir uno nuevo.
+Estos son algunos de los comandos más básicos y frecuentemente utilizados en Git. Con estos comandos, puedes realizar la mayoría de las tareas comunes en la gestión de repositorios.
