@@ -10,3 +10,9 @@ Hay muchas ventajas de utilizar GitHub para control de versiones y colaboración
 4. **Comunidad:** GitHub cuenta con una gran comunidad de desarrolladores que están dispuestos a ayudar y colaborar.
 ### ¿Cuál es la diferencia entre Git y GitHub?
 Git y GitHub son dos herramientas diferentes, pero están estrechamente relacionadas. Git es un sistema de control de versiones descentralizado, mientras que GitHub es un servicio de alojamiento de repositorios Git en línea.
+### ¿Qué es un sistema de control de versiones?
+Un sistema de control de versiones (**VCS**) es una herramienta que ayuda a los desarrolladores rastrear y administrar cambios en los archivos de código. 
+### Beneficios de los VCS
+1. **Rastreo de cambios:** permiten a los desarrolladores rastrear cambios en los archivos del código, útil para solucionar problemas retrocediendo los cambios y comparar.
+2. **Colaboración:** permiten trabajar en el mismo código al mismo tiempo sin sobreescribirse entre sí, útil para desarrollo de software en equipo.
+3. **Versionado:** permiten a los desarrolladores guardar diferentes versones del código, útil para porbar diferentes cambios en el código o para volver a una versión anterior
