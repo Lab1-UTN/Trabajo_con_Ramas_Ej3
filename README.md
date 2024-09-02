@@ -8,3 +8,5 @@ Hay muchas ventajas de utilizar GitHub para control de versiones y colaboración
 2. **Escalabilidad:** GitHub puede escalar para satisfacer las necesidades de proyectos de cualquier tamaño, desde proyectos personales hasta proyectos de grandes empresas.
 3. **Seguridad:** GitHub ofrece una variedad de características de seguridad para proteger los proyectos de los usuarios.
 4. **Comunidad:** GitHub cuenta con una gran comunidad de desarrolladores que están dispuestos a ayudar y colaborar.
+### ¿Cuál es la diferencia entre Git y GitHub?
+Git y GitHub son dos herramientas diferentes, pero están estrechamente relacionadas. Git es un sistema de control de versiones descentralizado, mientras que GitHub es un servicio de alojamiento de repositorios Git en línea.
