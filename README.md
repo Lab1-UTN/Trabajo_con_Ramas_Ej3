@@ -1,7 +1,7 @@
 # Trabajo_con_Ramas_Ej3
 ## INFORMACIÓN GIT
-### ¿Qué es git?
-# GitHub es un servicio de alojamiento de repositorios de control de versiones, en el que los desarrolladores pueden almacenar y gestionar sus proyectos de software. Es una herramienta gratuita y de código abierto que permite a los usuarios trabajar juntos en proyectos, compartir código y colaborar de forma eficiente.
+### ¿Qué es GitHub?
+GitHub es un servicio de alojamiento de repositorios de control de versiones, en el que los desarrolladores pueden almacenar y gestionar sus proyectos de software. Es una herramienta gratuita y de código abierto que permite a los usuarios trabajar juntos en proyectos, compartir código y colaborar de forma eficiente.
 ### Ventajas de utilizar GitHub para control de versiones y colaboración
 Hay muchas ventajas de utilizar GitHub para control de versiones y colaboración, entre ellas:
 1. **Facilidad de uso:** GitHub es una herramienta muy fácil de usar, incluso para los desarrolladores que no están familiarizados con el control de versiones.
